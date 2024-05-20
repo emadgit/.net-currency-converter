@@ -6,12 +6,7 @@ This project is a .NET Razor application that uses a MySQL database. It includes
 
 Here is a demo of the application:
 
-```html
-<video width="320" height="240" controls>
-  <source src="https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/meta5-demo.mov" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-```
+https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/meta5-demo.mov
 
 ## Prerequisites
 
