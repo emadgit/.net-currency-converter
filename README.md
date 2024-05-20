@@ -5,7 +5,7 @@ This project is a .NET Razor application that uses a MySQL database. It includes
 ## Demo Video
 
 Here is a demo of the application:
-[![Demo]([https://i.sstatic.net/q3ceS.png](https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/demo.png))]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/hsJEanxyw5A) "Demo")
+[![Demo]([https://i.sstatic.net/q3ceS.png](https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/demo.png))]([[https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/hsJEanxyw5A)](https://youtu.be/hsJEanxyw5A) "Demo")
 
 ## Prerequisites
 
