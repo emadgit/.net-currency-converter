@@ -5,11 +5,7 @@ This project is a .NET Razor application that uses a MySQL database. It includes
 ## Demo Video
 
 Here is a demo of the application:
-<video src="https://github.com/emadgit/blog/raw/main/midalia-blog/public/assets/meta5-demo.mp4"></video>
-<video width="320" height="240" controls>
-  <source src="https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/meta5-demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 ## Prerequisites
 
