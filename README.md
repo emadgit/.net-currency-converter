@@ -2,6 +2,10 @@
 
 This project is a .NET Razor application that uses a MySQL database. It includes a simplified version of the Northwind database.
 
+## DEMO
+
+https://github.com/emadgit/blog/blob/main/midalia-blog/public/assets/meta5-demo.mov
+
 ## Prerequisites
 
 - .NET SDK
